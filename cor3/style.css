@@ -5,19 +5,19 @@
 }
 
 body {
-    background-image: linear-gradient(to bottom,#DDDCC5, #958976);
+    background-image: linear-gradient(to bottom,hsl(58, 26%, 82%), hsl(37, 13%, 52%));
 } 
-main { background-color: white;
+ main { background-color: white;
     border-radius: 10px;
-    box-shadow: 5px 5px 15px #837968c7;
+    box-shadow: 5px 5px 15px hsla(38, 11%, 46%, 0.78);
 width:600px 
 padding: 10px;
-margin: auto;}
+ margin: auto;}
 
-h1 { color:#771830 ;
+h1 { color:hsl(345, 66%, 28%) ;
 text-align: center;
-text-shadow: 1px 1px 4px #440e1ccb;}
-h2 { color: #1D2326;}
+text-shadow: 1px 1px 4px hsla(344, 66%, 16%, 0.796);}
+h2 { color: hsl(200, 13%, 13%);}
 p {
     text-align: justify;
 }
